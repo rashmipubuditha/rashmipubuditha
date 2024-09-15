@@ -8,7 +8,6 @@
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Electrical and Electronic Engineering at the University of Peradeniya\
 🌱 &nbsp;I'm on track to learn more about Machine Learning, Systems Design, Embedded Systems (IoT), and Cloud Architecture.\
-✉️ &nbsp;You can shoot me an email at e18268@eng.pdn.ac.lk I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my <a href="www.linkedin.com/in/rashmipubuditha-956717211"> Rashmi Pubuditha-LinkedIn</a> for more details about me.
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
