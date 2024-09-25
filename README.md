@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rashmi Pubuditha</h1>
-<h3 align="center">Electrical and Electronic Engineer</h3>
+<!-- <h3 align="center">Electrical and Electronic Engineer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmipubuditha&label=Profile%20views&color=0e75b6&style=flat" alt="rashmipubuditha" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently studying Electrical and Electronic Engineering at the University of Peradeniya\
-🌱 &nbsp;I'm on track to learn more about Machine Learning, Systems Design, Embedded Systems (IoT), and Cloud Architecture.\
+🌱 &nbsp;I'm on track to learn more about Machine Learning, Software Development, Embedded Systems (IoT), and Cloud Architecture.\
 📄 &nbsp;Please have a look at my <a href="www.linkedin.com/in/rashmipubuditha-956717211"> Rashmi Pubuditha-LinkedIn</a> for more details about me.
 
 <!--<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
